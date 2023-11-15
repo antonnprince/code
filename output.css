@@ -708,14 +708,6 @@ video {
   margin-bottom: 1rem;
 }
 
-.ml-12 {
-  margin-left: 3rem;
-}
-
-.ml-8 {
-  margin-left: 2rem;
-}
-
 .mr-8 {
   margin-right: 2rem;
 }
@@ -2074,11 +2066,6 @@ video {
 
 .text-lg {
   font-size: 1.125rem;
-  line-height: 1.75rem;
-}
-
-.text-xl {
-  font-size: 1.25rem;
   line-height: 1.75rem;
 }
 
