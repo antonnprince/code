@@ -708,8 +708,29 @@ video {
   margin-bottom: 1rem;
 }
 
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
+.mb-24 {
+  margin-bottom: 6rem;
+}
+
+.mb-36 {
+  margin-bottom: 9rem;
+}
+
+.mb-64 {
+  margin-bottom: 16rem;
 }
 
 .box-border {
@@ -2649,6 +2670,10 @@ video {
 
   .md\:mt-0 {
     margin-top: 0px;
+  }
+
+  .md\:mb-36 {
+    margin-bottom: 9rem;
   }
 
   .md\:h-1\/2 {
